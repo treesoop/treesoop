@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4620,50:3d7a3e,100:a8c5a0&height=220&section=header&text=TreeSoop%20나무숲&fontSize=52&fontColor=f0ece4&fontAlignY=35&desc=AI%20Development%20%26%20R%26D%20Studio&descSize=18&descAlignY=55&descColor=a8c5a0&animation=fadeIn" width="100%" />
+<img src="./logo.png" alt="TreeSoop Logo" width="140" />
 
-<br/>
-
-<img src="./logo.png" alt="TreeSoop Logo" width="120" />
+# TreeSoop 나무숲
+**AI Development & R&D Studio**
 
 <br/>
 
@@ -230,8 +229,10 @@ AI 연구 컨설팅
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4620,50:3d7a3e,100:a8c5a0&height=120&section=footer" width="100%" />
+**© 2024 TreeSoop 나무숲** · AI로 더 나은 세상을 만듭니다 🌲
 
 </div>
