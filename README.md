@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="./logo.png" alt="TreeSoop Logo" width="120" />
+
+<br/>
+
 ### 🌲 최고의 인재가 만드는 최상의 결과
 
 **POSTECH · KAIST · 서울대 · 연세대 · UNIST 출신 엔지니어들이 만듭니다**
